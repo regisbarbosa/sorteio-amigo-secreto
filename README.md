@@ -115,15 +115,7 @@ for amigo, sorteado in resultado.items():
 - **Envio de e-mails:** ajuste o servidor de e-mail e porta, caso necessário.
 
 ## Contribuições
-
 Contribuições são bem-vindas! Sinta-se à vontade para abrir issues ou enviar pull requests.
 
-## Licença
-
-Este projeto está licenciado sob a licença MIT. Consulte o arquivo `LICENSE` para obter mais informações.
-
----
-
 ### Contato
-
 Criado por [Régis](https://github.com/regisbarbosa). Entre em contato para sugestões ou melhorias!
